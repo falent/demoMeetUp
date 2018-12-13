@@ -1,5 +1,6 @@
 
-please start:
+please start all commands but without the last one. We are going to code
+together the first super easy Google Assistant App
 
 ## WINDOWS:
 
